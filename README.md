@@ -1,12 +1,12 @@
-º» ÇÁ·ÎÁ§Æ®´Â HOLIDAY ¼Ò½º °øÀ¯ ÀúÀå°ø°£ÀÔ´Ï´Ù.
-ÇÁ·ÎÁ§Æ®¸í HOLIDAY
-Âü¿©ÀÎ¿ø 4¸í
-±â°£ 2018.07.11 ~ 2018.07.20 (10ÀÏ)
-°³¹ßÈ¯°æ OS - Windows 7 Professional K
+ë³¸ í”„ë¡œì íŠ¸ëŠ” HOLIDAY ì†ŒìŠ¤ ê³µìœ  ì €ì¥ê³µê°„ì…ë‹ˆë‹¤.
+í”„ë¡œì íŠ¸ëª… HOLIDAY
+ì°¸ì—¬ì¸ì› 4ëª…
+ê¸°ê°„ 2018.07.11 ~ 2018.07.20 (10ì¼)
+ê°œë°œí™˜ê²½ OS - Windows 7 Professional K
 	WAS - Apache Tomcat 8.5
 	DBMS - Oracle 11g Express Edition
 	Language - Java Platform 8, JSP & Servlet
-	FrameWork - ÀüÀÚÁ¤ºÎ Ç¥ÁØ ÇÁ·¹ÀÓ¿öÅ© (Spring Frame), Mybatis Àû¿ë
+	FrameWork - ì „ìì •ë¶€ í‘œì¤€ í”„ë ˆì„ì›Œí¬ (Spring Frame), Mybatis ì ìš©
 	Web - HTML5, CSS/CSS3, JavaScript
 	Tool - Spring tool suite 3.9.5, Sqldeveloper, eXERD (E-R Modeling Tool)
-	Open Source - jQuery v3.3.1, jQuery UI v.1.12.1
+	Open Source - jQuery v3.3.1, jQuery UI v.1.12.1, cos-26Dec2008
